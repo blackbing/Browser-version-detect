@@ -1,3 +1,4 @@
+
 I am confused by browser version detection. What I need is blocking the browsers which are ie6/ie7/ff3 , however, I can't easily detect browser version. Cause I got the version which is like that "6.0.2900.5512.xpsp_sp3_gdr.100427-1636".
 so I write an easy plugin to check the browser version and you can also use callback to block these kind of old fashion browser or do anything else.
  
